@@ -1,2 +1,2 @@
-var = "Stings must be held together with quotations."
-var = "this is a string"
+var email = "chamberlainuxdesign@gmail.com"
+var name = "nathan chamberlain"
