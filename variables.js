@@ -9,7 +9,8 @@ var livesInOregon = true
 
 email = "nchamb22@turing.edu"
 fullName = "nate chambo"
+livesInOregon = false 
 
 console.log(email);
 console.log(fullName);
-
+console.log(livesInOregon);
